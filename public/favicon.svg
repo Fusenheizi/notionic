@@ -1,34 +1,8 @@
-<svg width="100.000000pt" height="100.000000pt" viewBox="0 0 100.000000 100.000000" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#ffffff" stroke="none">
-    <path d="M0 500 l0 -500 500 0 500 0 0 500 0 500 -500 0 -500 0 0 -500z" />
-  </g>
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
-    <path d="M812 773 l-2 -73 -362 -3 -363 -2 362 -3 362 -2 4 -157 3 -158 2 157
-2 157 48 4 47 3 -47 2 -47 2 -4 73 -3 72 -2 -72z" />
-    <path d="M192 433 l-2 -162 -52 -4 -53 -3 52 -2 52 -2 4 -67 3 -68 2 67 2 68
-358 3 357 2 -357 3 -358 2 -3 163 -3 162 -2 -162z" />
-  </g>
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#ffffff" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#00ffff" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#ff00ff" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#0000ff" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#ffff00" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#00ff00" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#ff0000" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#c0c0c0" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#808080" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#008080" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#800080" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#000080" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#808000" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#008000" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none" />
-  <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none" />
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="100pt" height="100pt" viewBox="0 0 100 100" style="" preserveAspectRatio="xMidYMid meet">
+<g fill="#000000FF" stroke="#000000FF">
+<path d="M 19.223 56.698 L 19.000 72.895 13.750 73.263 L 8.500 73.630 13.704 73.815 L 18.909 74.000 19.258 80.750 L 19.608 87.500 19.804 80.763 L 20.000 74.025 55.750 73.750 L 91.500 73.474 55.775 73.237 L 20.050 73.000 19.748 56.750 L 19.447 40.500 19.223 56.698 "/></g>
+<g fill="#000000FF" stroke="#000000FF">
+<path d="M 81.199 22.738 L 81.000 29.975 44.750 30.250 L 8.500 30.526 44.725 30.763 L 80.949 31.000 81.252 46.750 L 81.555 62.500 81.777 46.805 L 82.000 31.110 86.750 30.735 L 91.500 30.360 86.794 30.180 L 82.088 30.000 81.743 22.750 L 81.397 15.500 81.199 22.738 "/></g>
 </svg>
