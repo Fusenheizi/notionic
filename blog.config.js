@@ -2,7 +2,7 @@ const BLOG = {
   title: '时间之间',
   author: '浮森黑子',
   email: 'fusenheizi@qq.com',
-  link: 'https://interwink.com',
+  link: 'https://diary.interwink.com',
   newsletter: '杂文收集箱',
   description: '每日都是新的，此事明日说吧。',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -17,7 +17,7 @@ const BLOG = {
   sortByDate: true,
   pagesShow: {
     newsletter: true,
-    notes: true,
+    notes: false,
     projects: false,
     contact: false,
     books: false,
@@ -67,10 +67,10 @@ const BLOG = {
   },
   comment: {
     // support provider: utterances, supacomments
-    provider: '', // leave it empty if you don't need any comment plugin
+    provider: 'supacomments', // leave it empty if you don't need any comment plugin
     supaCommentsConfig: {
-      supabaseUrl: '', // The url of your Supabase instance
-      supabaseAnonKey: '' // The anonymous key of your Supabase instance
+      supabaseUrl: 'https://qvxiocrcurqctlxubhgp.supabase.co', // The url of your Supabase instance
+      supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InF2eGlvY3JjdXJxY3RseHViaGdwIiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODI2NjAyNjEsImV4cCI6MTk5ODIzNjI2MX0.HB64YJUjh6TA20XfoXm55l9-xGtDYTIhOhVYs3UJSc8' // The anonymous key of your Supabase instance
     },
     utterancesConfig: {
       repo: ''
