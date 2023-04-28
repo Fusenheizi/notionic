@@ -4,7 +4,7 @@ const BLOG = {
   email: 'fusenheizi@qq.com',
   link: 'https://interwink.com',
   newsletter: '杂文收集箱',
-  description: 'Everyday is new, so let\'s talk it tomorrow.',
+  description: '每日都是新的，此事明日说吧。',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
