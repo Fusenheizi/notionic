@@ -23,7 +23,7 @@ const BLOG = {
     books: false,
     friends: false
   },
-  showWeChatPay: false,
+  showWeChatPay: true,
   previewImagesEnabled: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateHost: 'og-zl.vercel.app', // The link to generate OG image, don't end with a slash
