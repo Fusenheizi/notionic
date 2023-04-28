@@ -42,7 +42,7 @@ const BLOG = {
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
   notionDomain: 'fusenheizi.notion.site',
   telegramToken: process.env.TELEGRAM_TOKEN, // The token of your Telegram bot
-  telegramChatId: '', // The chat id of your Telegram bot
+  telegramChatId: '6056184182', // The chat id of your Telegram bot
   telegramChannelUrl: '', // The link of your Telegram channel
   telegramChannelName: '', // The name of your Telegram channel
   craftConfigShareUrl: 'https://www.craft.do/s/kQtcWqkv98cHhB', // The link to share your craft config
@@ -69,8 +69,8 @@ const BLOG = {
     // support provider: utterances, supacomments
     provider: 'supacomments', // leave it empty if you don't need any comment plugin
     supaCommentsConfig: {
-      supabaseUrl: 'https://qvxiocrcurqctlxubhgp.supabase.co', // The url of your Supabase instance
-      supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InF2eGlvY3JjdXJxY3RseHViaGdwIiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODI2NjAyNjEsImV4cCI6MTk5ODIzNjI2MX0.HB64YJUjh6TA20XfoXm55l9-xGtDYTIhOhVYs3UJSc8' // The anonymous key of your Supabase instance
+      supabaseUrl: 'https://xbbpheevwzelepeyuqgj.supabase.co', // The url of your Supabase instance
+      supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhiYnBoZWV2d3plbGVwZXl1cWdqIiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODI2NjExMjYsImV4cCI6MTk5ODIzNzEyNn0.dyRa6H9yEIwMzBuPGIThBtwIjNNbX7OGC06sl6WTmgk' // The anonymous key of your Supabase instance
     },
     utterancesConfig: {
       repo: ''
