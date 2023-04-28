@@ -31,10 +31,10 @@ const BLOG = {
   socialLink: {
     twitter: '',
     github: '',
-    telegram: ''
+    telegram: 'https://t.me/fusenheizi'
   },
   seo: {
-    keywords: ['Notionic', 'Blog'],
+    keywords: ['Notion', 'Blog'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS! Edit .env file!
